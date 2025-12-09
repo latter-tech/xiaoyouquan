@@ -1,25 +1,58 @@
-# 时光校友圈
+# 时光校友圈（Xiaoyou World）
 
-## 官方网址
+## 🌐 官方网站  
+https://xiaoyouquan.com
 
-<a href="https://xiaoyouquan.com" style="text-decoration: none">https://xiaoyouquan.com</a><br>
+---
 
+## 📘 项目简介
 
-## 项目简介
+**时光校友圈** 源自曾经的 APP 项目 **啦特**（https://latter.cn）。  
+啦特最初是一款界面风格类似 Twitter 的英文交流社区，但在寻找种子用户的过程中发现核心需求并不真实，因此项目方向被判断为伪需求。
 
-本项目源自一个失败的APP项目——啦特(<a href="https://latter.cn">latter.cn</a>)，
-啦特是一款在界面上模仿了推特的项目， 限制只能用英文交流， 
-在寻找种子用户阶段发现这是一个伪产品需求， 
-所以决定调整方向改为校友社区， 
-于是就诞生了 校友世界。
+基于已有的基础架构与经验，我们决定转向更加清晰、真实也更有长期价值的领域——**校友社区**。  
+于是，**时光校友圈** 诞生了。
 
-## 功能演示
+时光校友圈是一款开源、面向全球校友群体的社区类 APP，致力于为校友之间提供一个开放、友好、可持续的交流空间。
+
+---
+
+## 📱 功能预览
 
 <div>
   <img src="https://xiaoyouquan.com/imgs/pub/w800.jpg" width="800">
 </div>
 
-## 开源协议
+---
 
-本项目基于 MIT License 开源，你可以在遵守相关条款的前提下自由使用、修改和分发本项目源代码。  
-完整协议文本见仓库根目录下的 `LICENSE` 文件。
+## 🛠️ 技术栈（可按需保留）
+- **服务端**：Spring Boot + MySQL（使用 MyBatis）
+- **客户端**：Flutter + SQLite
+- **架构特点**：轻量、可扩展、支持全球用户
+- **定位**：开源可再利用的校友社区基础框架
+
+---
+
+## 📄 开源许可协议（MIT License）
+
+MIT License
+
+Copyright (c) 2025 Xiaoyou World
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
