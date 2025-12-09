@@ -1,8 +1,8 @@
-# 校友世界
+# 时光校友圈
 
 ## 官方网址
 
-<a href="https://xiaoyoushijie.com" style="text-decoration: none">https://xiaoyoushijie.com</a><br>
+<a href="https://xiaoyouquan.com" style="text-decoration: none">https://xiaoyouquan.com</a><br>
 
 
 ## 项目简介
