@@ -18,3 +18,8 @@
 <div>
   <img src="https://xiaoyouquan.com/imgs/pub/w800.jpg" width="800">
 </div>
+
+## 开源协议
+
+本项目基于 MIT License 开源，你可以在遵守相关条款的前提下自由使用、修改和分发本项目源代码。  
+完整协议文本见仓库根目录下的 `LICENSE` 文件。
