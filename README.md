@@ -1,4 +1,4 @@
-# 时光校友圈（Xiaoyou World）
+# 时光校友圈（AlumniCircle）
 
 ## 🌐 官方网站  
 https://xiaoyouquan.com
