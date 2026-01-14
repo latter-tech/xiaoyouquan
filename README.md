@@ -31,8 +31,8 @@ https://xiaoyouquan.com
 
 ---
 
-## 🛠️ 技术栈（可按需保留）
-- **服务端**：Spring Boot + MySQL（使用 MyBatis）
+## 🛠️ 技术栈
+- **服务端**：Spring Boot + MySQL（暂不开源）
 - **客户端**：Flutter + SQLite
 - **架构特点**：轻量、可扩展、支持全球用户
 - **定位**：开源可再利用的校友社区基础框架
@@ -43,7 +43,7 @@ https://xiaoyouquan.com
 
 MIT License
 
-Copyright (c) 2025 Xiaoyou World
+Copyright (c) 2025 AlumniCircle
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
