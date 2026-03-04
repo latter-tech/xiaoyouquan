@@ -22,9 +22,7 @@
 
 ## 📱 功能预览
 
-<div>
-  <img src="https://englishworld.cn/xiaoyouquan/w1280.jpg" width="800">
-</div>
+![功能预览](https://xiaoyouquan.com/w1280.jpg)
 
 ---
 
