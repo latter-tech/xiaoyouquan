@@ -22,7 +22,7 @@
 
 ## 📱 功能预览
 
-![功能预览](https://xiaoyouquan.com/w1280.jpg)
+![https://xiaoyouquan.com/w1280.jpg](https://github.com/latter-tech/xiaoyouquan/blob/master/1280x1600.jpg)
 
 ---
 
