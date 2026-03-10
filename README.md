@@ -10,13 +10,17 @@
 
 ---
 
-**时光校友圈** ( [https://xiaoyouquan.com](https://xiaoyouquan.com) )是一款面向全球校友群体的社区类 APP，致力于为校友之间提供一个开放、友好、可持续的交流空间。
+**时光校友圈** 是一款面向全球校友群体的社区类 APP，致力于为校友之间提供一个开放、友好、可持续的交流空间。
 
 考虑到APP的上线试错成本太高（ICP备案/软著/安全评估报告/应用商店的合规要求），所以我决定 时光校友圈 项目先开发WEB版试试水。
 
 由于准备使用AI来开发，技术采用了PHP/Laravel(服务端) + React/TailWind(客户端)的方案来进行开发，这也是根据我个人的实际情况，让AI推荐的方案。
 
 目前在利用业余时间开发中，敬请期待！
+
+国内版: [https://xiaoyouquan.com](https://xiaoyouquan.com)
+
+International version: [https://alumnicircle.com](https://alumnicircle.com)
 
 ---
 
