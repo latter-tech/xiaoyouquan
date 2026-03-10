@@ -18,9 +18,9 @@
 
 目前在利用业余时间开发中，敬请期待！
 
-国内版: [https://xiaoyouquan.com](https://xiaoyouquan.com)
+国内版: [https://xiaoyouquan.com](xiaoyouquan.com)
 
-International version: [https://alumnicircle.com](https://alumnicircle.com)
+International version: [https://alumnicircle.com](alumnicircle.com)
 
 ---
 
